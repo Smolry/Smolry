@@ -23,22 +23,23 @@ My current focus is on **AI/ML engineering, computer vision, AI systems, model i
 
 ## ⭐ Featured Work
 
-### 🚦 Smart HSRP Detection & Automated Traffic Violation System
+###  Smart HSRP Detection & Automated Traffic Violation System
 
 > An end-to-end computer vision system for vehicle authentication, HSRP detection, and automated helmet-violation enforcement.
 
 **Recognition:** Top 50 / 680+ teams — VOIS Marathon 2.0
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7436121511834394624?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 The system combines multiple computer vision models into a single inference pipeline:
 
-* 🚗 **YOLOv11m** — vehicle detection
-* 🔄 **DeepSORT** — multi-object tracking
-* 🔍 **YOLOv10s** — number plate detection
-* 🪪 **EfficientNet-B0** — HSRP / NON-HSRP classification
-* 🔤 **EasyOCR** — selective OCR for NON-HSRP cases
-* 🪖 **YOLOv8s** — helmet violation detection
-* ⚡ **Temporal Decision Framework (TDF)** — temporal consistency and false-positive reduction
-* ☁️ **AWS / FastAPI** — deployed inference architecture
+*  **YOLOv11m** — vehicle detection
+*  **DeepSORT** — multi-object tracking
+*  **YOLOv10s** — number plate detection
+*  **EfficientNet-B0** — HSRP / NON-HSRP classification
+*  **EasyOCR** — selective OCR for NON-HSRP cases
+*  **YOLOv8s** — helmet violation detection
+*  **Temporal Decision Framework (TDF)** — temporal consistency and false-positive reduction
+*  **AWS / FastAPI** — deployed inference architecture
 
 ### Results
 
@@ -59,7 +60,7 @@ The project is also being used as a foundation for experimenting with how traine
 
 ---
 
-## 🔬 Currently Building
+##  Currently Building
 
 ### Project 01 — AI Engineering Project
 
@@ -67,7 +68,7 @@ The project is also being used as a foundation for experimenting with how traine
 
 A deeper AI/ML engineering project focused on building a system end-to-end, with emphasis on experimentation, evaluation, deployment, and reproducibility.
 
-**Status:** 🚧 In progress
+**Status:**  In progress
 
 ---
 
@@ -77,7 +78,7 @@ A deeper AI/ML engineering project focused on building a system end-to-end, with
 
 A second major project exploring **[PLACEHOLDER: AI systems / LLMs / agents / inference / other direction]**.
 
-**Status:** 🚧 In progress
+**Status:**  In progress
 
 ---
 
@@ -93,7 +94,7 @@ The goal is not simply to reproduce a reported number, but to understand **what 
 **Implementation:** `[PLACEHOLDER]`
 **Results:** `[PLACEHOLDER]`
 
-**Status:** 🔬 Research / Experimentation
+**Status:**  Research / Experimentation
 
 ---
 
@@ -115,27 +116,7 @@ One of the ecosystems I'm exploring is **vLLM**, particularly around the enginee
 
 ---
 
-## 🤗 Hugging Face
-
-Hugging Face is intended to be the **AI artifact layer** of my work.
-
-While GitHub contains the engineering and implementation, Hugging Face will be used where appropriate for:
-
-* 🤖 Models and model checkpoints
-* 📊 Datasets
-* 🧪 Experiments and evaluations
-* 🚀 Spaces and demos
-* 📦 Reproducible AI artifacts
-
-The goal is for my AI projects to have a traceable path from:
-
-**Research / Idea → Code → Model / Dataset → Experiment → Demo → Results**
-
-**→ Hugging Face:** `https://huggingface.co/Smolry`
-
----
-
-## 🛠️ Technical Focus
+##  Technical Focus
 
 ### AI / Machine Learning
 
@@ -155,35 +136,7 @@ The goal is for my AI projects to have a traceable path from:
 
 ### Cloud & Developer Tools
 
-`AWS` · `GCP` · `Git` · `GitHub` · `Postman`
-
----
-
-## 📌 How I Build
-
-I care about the entire lifecycle of an AI system:
-
-```text
-Understand
-    ↓
-Build
-    ↓
-Experiment
-    ↓
-Measure
-    ↓
-Break
-    ↓
-Understand why
-    ↓
-Improve
-    ↓
-Document
-    ↓
-Open Source
-```
-
-I'm particularly interested in the gap between **"a model works"** and **"a useful AI system works reliably."**
+`AWS` · `Git` · `GitHub` · `Postman`
 
 ---
 
