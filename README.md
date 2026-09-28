@@ -27,8 +27,7 @@ My current focus is on **AI/ML engineering, computer vision, AI systems, model i
 
 > An end-to-end computer vision system for vehicle authentication, HSRP detection, and automated helmet-violation enforcement.
 
-**Recognition:** Top 50 / 680+ teams — VOIS Marathon 2.0
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7436121511834394624?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+**Recognition:** Top 50 / 680+ teams — [VOIS Marathon 2.0](https://lnkd.in/p/dwCfh-9m)
 
 The system combines multiple computer vision models into a single inference pipeline:
 
@@ -55,8 +54,8 @@ The system combines multiple computer vision models into a single inference pipe
 
 The project is also being used as a foundation for experimenting with how trained models, datasets, inference pipelines, and AI artifacts can be made reproducible and accessible through **Hugging Face**.
 
-**Code:** `Smart-HSRP-detection`
-**AI artifacts / models / datasets:** `Hugging Face — Smart HSRP`
+**Code:** [`Smart-HSRP-detection`](https://github.com/Smolry/Smart-HSRP-detection)
+**AI artifacts / models / datasets:** [`Hugging Face — Smart HSRP`](https://huggingface.co/Smolry)
 
 ---
 
