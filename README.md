@@ -61,13 +61,22 @@ The project is also being used as a foundation for experimenting with how traine
 
 ##  Currently Building
 
-### Project 01 — AI Engineering Project
+### RAG Platform: Secure, Cost-Aware, and Graph-Enhanced Retrieval
 
-> **[PLACEHOLDER — project description coming soon]**
+> An evolving Retrieval-Augmented Generation (RAG) platform designed to explore how retrieval systems can become more secure, measurable, and efficient as their complexity grows.
 
-A deeper AI/ML engineering project focused on building a system end-to-end, with emphasis on experimentation, evaluation, deployment, and reproducibility.
+**Rather than building disconnected demos, the project develops a single platform through successive stages:**
 
-**Status:**  In progress
+* Phase 0 --> Baseline RAG: Document ingestion, chunking, vector retrieval, cited generation, request instrumentation, and evaluation.
+* Phase 2 --> Permission-Aware Multi-Tenant RAG: JWT-based identity, retrieval-time access-control filtering, a second authorization check, audit logging, permission revocation, and adversarial security tests.
+* Phase 1 --> Cost-Aware Retrieval: Planned tenant-aware semantic caching, rule-based model routing, quality-based escalation, and a monitoring dashboard.
+* Phase 3 --> GraphRAG: Planned knowledge-graph integration, hybrid graph/vector retrieval, reranking, and multi-hop question-answering evaluation.
+
+**Status:**  Phase 0 --> phase2 : Baseline and permission-aware multi-tenant stages implemented, with offline tests passing. Real-stack security and performance measurements remain to be validated; caching, routing, and GraphRAG are planned next stages.
+
+**Tech stack:** Python · FastAPI · Qdrant · sentence-transformers · LiteLLM · PostgreSQL · pytest
+
+**Repository:** [`RAG-platform`](https://github.com/Smolry/RAG-platform)
 
 ---
 
