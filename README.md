@@ -76,7 +76,7 @@ The project is also being used as a foundation for experimenting with how traine
 
 **Tech stack:** Python · FastAPI · Qdrant · sentence-transformers · LiteLLM · PostgreSQL · pytest
 
-**Repository:** [`RAG-platform`](https://github.com/Smolry/RAG-platform)
+**Links:** [Repository](https://github.com/Smolry/RAG-platform) · [Live Benchmark Demo](https://rag-platform-e3zfve8fecv7p9gq43scg6.streamlit.app/)
 
 ---
 
